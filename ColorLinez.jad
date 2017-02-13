@@ -1,0 +1,7 @@
+MIDlet-Version: 1.1
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Jar-URL: ColorLinez.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Color linez,/icon.png,GameColorLinezMIDlet
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Name: Color linez
